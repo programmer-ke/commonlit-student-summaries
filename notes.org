@@ -1,0 +1,11 @@
+* refs
+ - regression with ulmfit
+   - https://forums.fast.ai/t/regression-using-ulmfit/18063
+   - https://forums.fast.ai/t/regression-using-fine-tuned-language-model/29091/46
+
+ - special tokens
+   - https://forums.fast.ai/t/fast-ai-v2-text-tokenization-with-tok-tfm/78752/5
+     - override text.core.WordTokenizer and add special tokens. pass to from_df method as found in source text.data nb
+   - explore use of xxpad?
+   
+ - investigate bug, cannot pass extra kwargs to numericalizer TextDataLoader.from_df -> TextBlock.from_df
