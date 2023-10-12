@@ -9,3 +9,6 @@
    - explore use of xxpad?
    
  - investigate bug, cannot pass extra kwargs to numericalizer TextDataLoader.from_df -> TextBlock.from_df
+
+ - create private dataset from notebook output
+   - https://www.kaggle.com/docs/datasets
