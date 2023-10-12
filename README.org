@@ -1,0 +1,3 @@
+* Commonlit - Evaluate Student Summaries
+
+Experiments on the [[https://www.kaggle.com/competitions/commonlit-evaluate-student-summaries][Kaggle competition]]
